@@ -1,5 +1,5 @@
 # This is master project is now transformed to master thesis
-### https://gitlab.tul.cz/tomas.moravec/pwa_project
+### https://github.com/Tmthetom/master_thesis
 
 ## Used programming languages
 * ServerServer (Windows)        : C#
