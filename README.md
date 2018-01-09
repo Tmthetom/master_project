@@ -1,4 +1,4 @@
-# This is master project moved to master thesis project
+# This is master project moved to master thesis
 ### https://github.com/Tmthetom/master_thesis
 
 ## Used programming languages
